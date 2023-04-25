@@ -17,7 +17,7 @@ function App() {
         <Route path='/' element={<JaideepSolania />} />
         <Route path='/all' element={<AllUsers />} />
         <Route path='/add' element={<AddUser />} />
-       </Routes>
+      </Routes>
     </BrowserRouter>
   );
 }
